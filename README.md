@@ -1,2 +1,2 @@
 # Hello-Git
-testing git
+Testing git
